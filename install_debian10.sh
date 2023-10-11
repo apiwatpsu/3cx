@@ -1,4 +1,3 @@
-cd ~/
 apt install sudo lsb-release gnupg2 wget curl
 sudo apt-get update
 wget -O- https://repo.3cx.com/key.pub | sudo apt-key add
